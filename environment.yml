@@ -1,0 +1,11 @@
+name: parse-ar6-database
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - jupyter
+  - jupytext
+  - matplotlib
+  - numpy
+  - pandas
+  - tqdm

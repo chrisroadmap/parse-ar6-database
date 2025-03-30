@@ -1,3 +1,9 @@
+# climate dataset which is not available without registration (and is huge)
+data/input/AR6_Scenarios_Database_World_ALL_CLIMATE_v1.1.csv
+
+# don't commit notebooks with jupytext
+*.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
